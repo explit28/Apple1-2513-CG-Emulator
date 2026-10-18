@@ -9,7 +9,7 @@ Fork of the original project: https://oshwlab.com/gwcohn/2513CG-adapter
 
 ### Credits and Licensing
 
-This project is based on the original **2513CG Adapter** designed by **George Cohn**.
+This project is based on the original **2513CG Adapter** designed by **George Cohn**.<br>
 Original project: https://oshwlab.com/gwcohn/2513CG-adapter
 
 Hardware assembly, testing, photographs and documentation by **explit (GitHub: explit28)**.
